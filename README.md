@@ -4,7 +4,7 @@
 ### 🚀 About Me
 I'm a Data Enthusiast
 
-💡Skills💡
+### 💡Skills💡
 
 • Advanced Excel
 
@@ -21,7 +21,7 @@ I'm a Data Enthusiast
 
 • Analyze-Mobile-App-Data-on-various-platforms-and-generate-recommendations
 
-💻 Virtual Internships 💻
+### 💻 Virtual Internships 💻
 
 • Jupiter - Study customer churn analytics for the banking industry
 
