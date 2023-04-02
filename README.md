@@ -12,6 +12,8 @@
 I'm a Data Enthusiast
 
 ## 🚀 Projects :
+Bank Customer Churn
+
 
 
 
