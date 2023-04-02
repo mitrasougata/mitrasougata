@@ -8,11 +8,12 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mitra1on1/)
 
 
-## 🚀 About Me
+### 🚀 About Me
 I'm a Data Enthusiast
 
-## 🚀 Projects :
+### 🚀 Projects :
 Bank Customer Churn
+Analyze-Mobile-App-Data-on-various-platforms-and-generate-recommendations
 
 
 
