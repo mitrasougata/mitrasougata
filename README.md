@@ -26,6 +26,7 @@ I'm a Data Enthusiast
 ### 💻 Virtual Internships 💻
 
 • Jupiter - Study customer churn analytics for the banking industry
+
 • PwC-Switzerland-Power-BI-Virtual-Case
 
 
