@@ -14,6 +14,8 @@ I'm a Data Enthusiast
 
 • R Programming Language
 
+• Python Programming
+
 
 ### 📂 Portfolio Projects 📂:
 
@@ -22,6 +24,8 @@ I'm a Data Enthusiast
 • Analyze-Mobile-App-Data-on-various-platforms-and-generate-recommendations
 
 • Ecommerce store sales Dashboard using Power Bi
+
+• Trip Data - Google analytics Capestone project
 
 ### 💻 Virtual Internships 💻
 
