@@ -7,13 +7,9 @@ I'm a Data Enthusiast
 ### 💡Skills💡
 
 • Advanced Excel
-
 • SQL
-
 • Power BI
-
 • R Programming Language
-
 • Python Programming
 
 
