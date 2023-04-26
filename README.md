@@ -2,7 +2,7 @@
 # Hi, I'm Sougata Mitra! 👋
 
 ### 🚀 About Me
-I'm a Data Enthusiast
+I'm a experienced Business Analyst with Data analytics skills
 
 ### 💡Skills💡
 
