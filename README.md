@@ -19,19 +19,19 @@ I'm a Data Enthusiast
 
 ### 📂 Portfolio Projects 📂:
 
-• Bank Customer Churn
+• Bank Customer Churn - https://rb.gy/fcsm0
 
-• Analyze-Mobile-App-Data-on-various-platforms-and-generate-recommendations
+• Analyze-Mobile-App-Data-on-various-platforms-and-generate-recommendations - https://rb.gy/pyojt
 
-• Ecommerce store sales Dashboard using Power Bi
+• Ecommerce store sales Dashboard using Power Bi - https://rb.gy/9qp5j
 
-• Trip Data - Google analytics Capestone project
+• Trip Data - Google analytics Capestone project - https://rb.gy/mssyz
 
 ### 💻 Virtual Internships 💻
 
-• Jupiter - Study customer churn analytics for the banking industry
+• Jupiter - Study customer churn analytics for the banking industry - https://rb.gy/fcsm0
 
-• PwC-Switzerland-Power-BI-Virtual-Case
+• PwC-Switzerland-Power-BI-Virtual-Case - https://rb.gy/jw55i
 
 
 
